@@ -1,4 +1,4 @@
-# studygo
+# studygo [链接](https://www.liwenzhou.com/posts/Go/go_menu/)
 ## go语言学习笔记
 ### 1、make和new的区别
 #####  (1) make和new都是用来申请内存的。
