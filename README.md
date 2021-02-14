@@ -8,3 +8,4 @@
 ### 2、defer总结
 #### (1) defer执行时机
 ##### 在Go语言的函数中return语句在底层并不是原子操作，它分为给返回值赋值和RET指令两步。而defer语句执行的时机就在返回值赋值操作后，RET指令执行前。具体如下图所示：
+![](https://github.com/lsds888/image/blob/main/image_golang/%E6%88%AA%E5%B1%8F2021-02-14%20%E4%B8%8B%E5%8D%887.24.36.png)
