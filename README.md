@@ -46,3 +46,4 @@ func main() {
 	fmt.Println(f4())
 }
 ```
+##### 运行结果为：5 6 5 5
